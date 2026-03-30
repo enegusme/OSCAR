@@ -1,5 +1,0 @@
-numpy==2.2.1
-torch==2.6.0
-pysindy==2.0.0
-gymnasium==1.0.0
-dm_control==1.0.22
